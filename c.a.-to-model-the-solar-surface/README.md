@@ -28,7 +28,7 @@ Once the so-called “perception vector”, which gathers the information about 
 
 ## Future improvement
 
-The model works with 128 x 128 px images. An increase would make even the 16 Gb GPU on Google Collaboratory run out of memory. The challenge then is to create a scalable model to preserve as much resolution as possible.
+The model works with 128 x 128 px images. An increase in size would make even the 16 Gb GPU on Google Collaboratory run out of memory. The challenge then is to create a scalable model to preserve as much resolution as possible.
 
 (Note that the target image had to be downscaled from 1152 x 1152 px to 128 x 128 px, and then, upscaled to the original size again. Thus, the quality loss is significant)
 <p align="center">
