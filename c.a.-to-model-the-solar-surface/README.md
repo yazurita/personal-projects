@@ -23,7 +23,7 @@ For the sake of comparison, here we have our simulation (left) and a timelapse c
 ## How the update rule is learned
 
 Once the so-called “perception vector”, which gathers the information about the pixel and its surroundings, is calculated, it goes through a two-dimensional convolution layer, a ReLU activation and a second two-dimensional convolution layer. The architecture’s weights will be updated according to the difference between the texture extracted from the output and the one extracted from the target image.
-(more on style capture here; more about the model here)
+(more on style capture [here](https://arxiv.org/abs/1508.06576); more about the model [here](https://distill.pub/selforg/2021/textures/))
 
 
 ## Future improvement
