@@ -43,4 +43,4 @@ The atmosphere state is characterized by the quantities temperature, preassure, 
 
 The idea for this project belongs to Andrés Asensio, who supervised my undergraduate dissertation and I am lucky to keep on collaborating with.
 
-This repository serves the only purpose of showing my capacities as a programmer. Therefore, the implementation of the model, the data as well as part of the code used in its preparation is hidden by now.
+This repository only serves the purpose of showing my capacities as a programmer. Therefore, the implementation of the model, the data as well as part of the code used in its preparation is hidden by now.
