@@ -43,7 +43,4 @@ The atmosphere state is characterized by the quantities temperature, preassure, 
 
 The idea for this project belongs to Andrés Asensio, who supervised my undergraduate dissertation and I am lucky to keep on collaborating with.
 
-Implementations used:
-
-- [Transformer](https://github.com/tnq177/witwicky)
-- [SIREN](https://github.com/lucidrains/pi-GAN-pytorch/blob/main/pi_gan_pytorch/pi_gan_pytorch.py)
+This repository serves the only purpose of showing my capacities as a programmer. Therefore, the implementation of the model, the data as well as part of the code used in its preparation is hidden by now.
