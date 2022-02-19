@@ -40,4 +40,4 @@ The atmosphere state is characterized by the quantities temperature, preassure, 
 
 ## Notes
 
-Project in collaboration with [@aasensio]https://github.com/aasensio. The data and complete implementation are not publicly available.
+Project in collaboration with [@aasensio](https://github.com/aasensio). The data and complete implementation are not publicly available.
