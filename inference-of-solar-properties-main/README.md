@@ -18,7 +18,6 @@ and the magnetic and thermodynamic state of its atmosphere:
 ## Current results
 <p align="center">
   <img src="https://user-images.githubusercontent.com/72736453/119957399-f36f6f00-bf99-11eb-9a8a-c988bb969cbb.png" width=45% height=45% />
-  <img src="https://user-images.githubusercontent.com/72736453/119957400-f4080580-bf99-11eb-9d20-600ed268226b.png" width=45% height=45% />
 </p>
 
 
@@ -41,6 +40,4 @@ The atmosphere state is characterized by the quantities temperature, preassure, 
 
 ## Notes
 
-The idea for this project belongs to Andrés Asensio, who supervised my undergraduate dissertation and I am lucky to keep on collaborating with.
-
-This repository only serves the purpose of showing my capacities as a programmer. Therefore, the implementation of the model, the data as well as part of the code used in its preparation is hidden by now.
+Project in collaboration with @aasensio.
