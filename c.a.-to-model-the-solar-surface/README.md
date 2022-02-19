@@ -37,5 +37,4 @@ The model works with 128 x 128 px images. An increase in size would make even th
 
 ## Notes
 
-Project in collaboration with Andrés Asensio.
-Code inspired by [Niklasson et al.](https://distill.pub/selforg/2021/textures/).
+Project in collaboration with [@aasensio](https://github.com/aasensio). Code inspired by [Niklasson et al.](https://distill.pub/selforg/2021/textures/).
